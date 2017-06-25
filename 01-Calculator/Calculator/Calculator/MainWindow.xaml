@@ -1,0 +1,32 @@
+﻿<Window x:Class="Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculator"
+        mc:Ignorable="d"
+        Title="Calculator" Height="322.746" Width="366.495">
+    <Grid Margin="0,0,2,0">
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="40" Margin="10,10,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="336" TextChanged="textBox_TextChanged" FontSize="28" TextAlignment="Right"/>
+        <Button x:Name="btnSeven" Content="7" HorizontalAlignment="Left" Margin="10,65,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnEight" Content="8" HorizontalAlignment="Left" Margin="75,65,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnFour" Content="4" HorizontalAlignment="Left" Margin="10,120,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnNine" Content="9" HorizontalAlignment="Left" Margin="140,65,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnFive" Content="5" HorizontalAlignment="Left" Margin="75,120,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnSix" Content="6" HorizontalAlignment="Left" Margin="140,120,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnOne" Content="1" HorizontalAlignment="Left" Margin="10,175,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="button_Copy6" Content="5" HorizontalAlignment="Left" Margin="75,175,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnTwo" Content="2" HorizontalAlignment="Left" Margin="75,175,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="button_Copy8" Content="5" HorizontalAlignment="Left" Margin="140,175,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnThree" Content="3" HorizontalAlignment="Left" Margin="140,175,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnComma" Content="." HorizontalAlignment="Left" Margin="140,230,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnClearEntry" Content="CE" HorizontalAlignment="Left" Margin="222,65,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnPlus" Content="+" HorizontalAlignment="Left" Margin="222,120,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnMinus" Content="-" HorizontalAlignment="Left" Margin="287,120,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnClear" Content="C" HorizontalAlignment="Left" Margin="287,65,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnMultBy" Content="x" HorizontalAlignment="Left" Margin="222,175,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnDivBy" Content="÷" HorizontalAlignment="Left" Margin="287,175,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnZero" Content="0" HorizontalAlignment="Left" Margin="10,230,0,0" VerticalAlignment="Top" Width="125" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+        <Button x:Name="btnEquals" Content="=" HorizontalAlignment="Left" Margin="222,230,0,0" VerticalAlignment="Top" Width="125" RenderTransformOrigin="0.69,-0.484" Height="50" FontSize="26"/>
+    </Grid>
+</Window>
