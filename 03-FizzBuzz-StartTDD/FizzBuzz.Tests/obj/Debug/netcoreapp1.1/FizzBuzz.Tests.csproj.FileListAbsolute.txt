@@ -1,0 +1,13 @@
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\FizzBuzz.Tests.deps.json
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\FizzBuzz.Tests.runtimeconfig.json
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\FizzBuzz.Tests.runtimeconfig.dev.json
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\FizzBuzz.Tests.dll
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\FizzBuzz.Tests.pdb
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\FizzBuzz.Library.dll
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\FizzBuzz.Library.pdb
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Tests\obj\Debug\netcoreapp1.1\FizzBuzz.Tests.AssemblyInfo.cs
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Tests\obj\Debug\netcoreapp1.1\FizzBuzz.Tests.dll
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Tests\obj\Debug\netcoreapp1.1\FizzBuzz.Tests.pdb

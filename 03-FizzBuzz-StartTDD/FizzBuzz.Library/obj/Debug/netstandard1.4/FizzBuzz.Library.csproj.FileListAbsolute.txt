@@ -1,0 +1,6 @@
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Library\bin\Debug\netstandard1.4\FizzBuzz.Library.deps.json
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Library\bin\Debug\netstandard1.4\FizzBuzz.Library.dll
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Library\bin\Debug\netstandard1.4\FizzBuzz.Library.pdb
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Library\obj\Debug\netstandard1.4\FizzBuzz.Library.AssemblyInfo.cs
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Library\obj\Debug\netstandard1.4\FizzBuzz.Library.dll
+D:\Michael Chen W\2017\C#\TDD\TDD-TheBigPicture\FizzBuzz-Start\FizzBuzz.Library\obj\Debug\netstandard1.4\FizzBuzz.Library.pdb
